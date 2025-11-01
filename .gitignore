@@ -20,6 +20,8 @@
 Thumbs.db
 desktop.ini
 
+# 🛠️ Ignore heavy file
+*.sql
 
 # 🛠️ Ignore IDE/editor folders
 .vscode/
@@ -33,6 +35,10 @@ desktop.ini
 *.dll
 *.bin
 *.class
+*.zip
+*.tar
+*.gz
+*.rar
 
 # 📁 Ignore node or Python environments (if used)
 node_modules/

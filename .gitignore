@@ -39,6 +39,7 @@ desktop.ini
 *.tar
 *.gz
 *.rar
+*.war
 
 # 📁 Ignore node or Python environments (if used)
 node_modules/

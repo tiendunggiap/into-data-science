@@ -1,0 +1,54 @@
+# 💾 Ignore heavy document formats
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.txt
+
+
+# 🧠 Ignore AI-generated cache or temp files
+*.log
+*.tmp
+*.bak
+
+
+# 📦 Ignore OS and editor-specific clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# 🛠️ Ignore IDE/editor folders
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+
+# 🚫 Ignore compiled or binary files
+*.exe
+*.dll
+*.bin
+*.class
+
+# 📁 Ignore node or Python environments (if used)
+node_modules/
+__pycache__/
+*.pyc
+.env
+.venv
+
+# 📷 Ignore media files (optional, if you want to keep it text-only)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
